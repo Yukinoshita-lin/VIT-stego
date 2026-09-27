@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/*.npz
+models/*.pt
+models/*.pth
+exp/
+.DS_Store
